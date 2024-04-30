@@ -42,6 +42,8 @@
 LAPACK is a library of Fortran subroutines for solving the most commonly
 occurring problems in numerical linear algebra.
 
+Documentation is found [here](https://netlib.org/blas)
+
 LAPACK is a freely-available software package. It can be included in commercial
 software packages (and has been). We only ask that that proper credit be given
 to the authors, for example by citing the LAPACK Users' Guide. The license used
